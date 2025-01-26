@@ -47,7 +47,7 @@ The **Recipe App** is a web application built using **ReactJS** and **Redux** th
    ```
 2. Navigate to the project directory:
    ```bash
-   cd recipe-app
+   cd ReceipeApp
    ```
 3. Install dependencies:
    ```bash
